@@ -1,0 +1,21 @@
+#content {
+    color:rgb(90, 43, 124);
+    background-color: rgb(236, 231, 241);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 20px;
+}
+
+#navigation {
+    padding: 20px;
+    color: white;
+    background-color: rgb(77, 2, 109);
+    height: fit-content;
+}
+
+#navigation > ul {
+    display:flex;
+    align-items: flex-start;
+}
